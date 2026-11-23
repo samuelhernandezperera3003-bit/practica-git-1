@@ -1,1 +1,0 @@
-Mi primer repositorio para clase de Fundamentos de Programación
